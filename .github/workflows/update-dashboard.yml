@@ -14,11 +14,11 @@ jobs:
     steps:
 
     - name: Check out
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Install yq
       run: |
-        sudo wget -LO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/download/3.3.0/yq_linux_amd64
+        sudo wget -LO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/download/v4.34.1/yq_linux_amd64
         sudo chmod +x /usr/local/bin/yq
 
     - name: Generate

@@ -1,41 +1,14 @@
-### repos
+# repos.txt
 
-ivantory-test
- [![test](https://github.com/ivansible/ivantory-test/workflows/test/badge.svg)](https://github.com/ivansible/ivantory-test/actions?query=workflow:"test")
+## [smcleod](https://github.com/sammcj/smcleod)
 
-asterisk
- [![test](https://github.com/ivansible/asterisk/workflows/test/badge.svg)](https://github.com/ivansible/asterisk/actions?query=workflow:"test")
-
-base
- [![test](https://github.com/ivansible/base/workflows/test/badge.svg)](https://github.com/ivansible/base/actions?query=workflow:"test")
-
-cert
- [![test](https://github.com/ivansible/cert/workflows/test/badge.svg)](https://github.com/ivansible/cert/actions?query=workflow:"test")
-
-devel
- [![test](https://github.com/ivansible/devel/workflows/test/badge.svg)](https://github.com/ivansible/devel/actions?query=workflow:"test")
-
-linux
- [![test](https://github.com/ivansible/linux/workflows/test/badge.svg)](https://github.com/ivansible/linux/actions?query=workflow:"test")
-
-nginx
- [![dyndns-go](https://github.com/ivansible/nginx/workflows/dyndns-go/badge.svg)](https://github.com/ivansible/nginx/actions?query=workflow:"dyndns-go") [![test](https://github.com/ivansible/nginx/workflows/test/badge.svg)](https://github.com/ivansible/nginx/actions?query=workflow:"test")
-
-server
- [![test](https://github.com/ivansible/server/workflows/test/badge.svg)](https://github.com/ivansible/server/actions?query=workflow:"test")
-
-termux
- [![test](https://github.com/ivansible/termux/workflows/test/badge.svg)](https://github.com/ivansible/termux/actions?query=workflow:"test")
-
-entware
- [![test](https://github.com/ivansible/entware/workflows/test/badge.svg)](https://github.com/ivansible/entware/actions?query=workflow:"test")
-
-ndms
- [![test](https://github.com/ivansible/ndms/workflows/test/badge.svg)](https://github.com/ivansible/ndms/actions?query=workflow:"test")
-
-vagrant
- [![test](https://github.com/ivansible/vagrant/workflows/test/badge.svg)](https://github.com/ivansible/vagrant/actions?query=workflow:"test")
+- [![Auto approve gha-template-repo-token-generator PRs](https://github.com/sammcj/smcleod/workflows/Auto%20approve%20gha-template-repo-token-generator%20PRs/badge.svg)](https://github.com/sammcj/smcleod/actions?query=workflow:"Auto%20approve%20gha-template-repo-token-generator%20PRs")
+- [![Codeball](https://github.com/sammcj/smcleod/workflows/Codeball/badge.svg)](https://github.com/sammcj/smcleod/actions?query=workflow:"Codeball")
+- [![Delete Disabled and Deprecated Workflows](https://github.com/sammcj/smcleod/workflows/Delete%20Disabled%20and%20Deprecated%20Workflows/badge.svg)](https://github.com/sammcj/smcleod/actions?query=workflow:"Delete%20Disabled%20and%20Deprecated%20Workflows")
+- [![Deploy Hugo site to Pages](https://github.com/sammcj/smcleod/workflows/Deploy%20Hugo%20site%20to%20Pages/badge.svg)](https://github.com/sammcj/smcleod/actions?query=workflow:"Deploy%20Hugo%20site%20to%20Pages")
+- [![Sync Available Github Labels](https://github.com/sammcj/smcleod/workflows/Sync%20Available%20Github%20Labels/badge.svg)](https://github.com/sammcj/smcleod/actions?query=workflow:"Sync%20Available%20Github%20Labels")
+- [![Lint Github Actions Workflows](https://github.com/sammcj/smcleod/workflows/Lint%20Github%20Actions%20Workflows/badge.svg)](https://github.com/sammcj/smcleod/actions?query=workflow:"Lint%20Github%20Actions%20Workflows")
+- [![Lint Github Actions Workflows](https://github.com/sammcj/smcleod/workflows/Lint%20Github%20Actions%20Workflows/badge.svg)](https://github.com/sammcj/smcleod/actions?query=workflow:"Lint%20Github%20Actions%20Workflows")
+- [![Check for TODOs and create or update issues](https://github.com/sammcj/smcleod/workflows/Check%20for%20TODOs%20and%20create%20or%20update%20issues/badge.svg)](https://github.com/sammcj/smcleod/actions?query=workflow:"Check%20for%20TODOs%20and%20create%20or%20update%20issues")
 
 ---
-
-
