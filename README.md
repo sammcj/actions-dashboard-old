@@ -9,6 +9,7 @@ single line records of github repositories, scan all workflows listed in
 of each workflow.
 
 ### Usage
+
 ```sh
 generate.sh [-h] -o OUTFILE [-i FILE]...
 
@@ -26,6 +27,7 @@ Input files must have a github repository name per line that follows the syntax
 Lines beginning with `#` are treated as comments.
 
 E.g.
+
 ```sh
 ./generate.sh -o dashboard.md -i repos.txt \
   -i https://raw.githubusercontent.com/arjun024/actions-dashboard/master/samples/some-other-gcp-repos
@@ -34,7 +36,6 @@ E.g.
 See [sample input](./repos.txt) and [sample output](./dashboard.md).
 
 <img src="https://github.com/ivansible/actions-dashboard/blob/master/sample.png?raw=true" width="550">
-
 
 ### Auto-regenerate
 
@@ -52,4 +53,3 @@ listed in the input files.
 * Edit
   [`.github/workflows/update-dashboard.yml`](.github/workflows/update-dashboard.yml)
   to run `generate.sh` with your command options in the `Generate` step.
-
