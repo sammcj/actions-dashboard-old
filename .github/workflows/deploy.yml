@@ -1,0 +1,13 @@
+name: Deploy
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy stub
+      run: |
+        echo "Placeholder for deployments"
+
