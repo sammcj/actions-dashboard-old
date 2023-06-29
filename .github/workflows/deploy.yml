@@ -6,6 +6,7 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
+    environment: turkey
     steps:
     - name: Deploy stub
       run: |
