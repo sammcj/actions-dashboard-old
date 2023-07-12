@@ -1,13 +1,19 @@
 name: Deploy
 on:
   workflow_dispatch:
+    inputs:
+      environment:
+        default: 'turkey'
+        type: string
+        required: false
   push:
 
 jobs:
-  check:
+  deploy-my-cool-app:
     runs-on: ubuntu-latest
+    environment: potatopotato
     steps:
     - name: Deploy stub
+    
       run: |
-        echo "Placeholder for deployments"
-
+        echo "Placeholder for deployments
