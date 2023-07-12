@@ -14,6 +14,5 @@ jobs:
     environment: potatopotato
     steps:
     - name: Deploy stub
-    
       run: |
-        echo "Placeholder for deployments
+        echo "Placeholder for deployments"
